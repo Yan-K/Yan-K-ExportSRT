@@ -18,12 +18,12 @@ A dockable ScriptUI panel for Adobe After Effects that exports selected layers t
    - **Windows:** `C:\Program Files\Adobe\Adobe After Effects [Version]\Support Files\Scripts\ScriptUI Panels\`
    - **macOS:** `/Applications/Adobe After Effects [Version]/Scripts/ScriptUI Panels/`
 3. Restart After Effects.
-4. The script will appear under the **Window** menu (e.g., **Window > SRT_Exporter.jsx**).
+4. The script will appear under the **Window** menu (e.g., **Window > Yan-K_ExportSRT.jsx**).
 
 ## Usage
 
 1. Open a composition and select the layers intended for export.
-2. Open the panel via **Window > SRT_Exporter**.
+2. Open the panel via **Window > Yan-K_ExportSRT**.
 3. Select the content source:
    - **Use Layer Name:** Uses the name of the layer in the timeline.
    - **Use Source Text:** Uses the actual text value (requires Text Layers).
