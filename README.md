@@ -2,7 +2,7 @@
 
 A dockable ScriptUI panel for Adobe After Effects that exports selected layers to the SubRip (.srt) subtitle format.
 
-![Image 1](image.jpg)
+![Image 1](image.jpg?)
 
 ## Features
 
